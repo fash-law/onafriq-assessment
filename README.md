@@ -1,2 +1,2 @@
-# petstore-buildas
-This is a repository for Api using postman
+# Onafriq assessment
+This is a repository for automation exercise
